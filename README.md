@@ -1,4 +1,4 @@
-# Datathon_Challenge
+# Datathon Competition
 
 ## Team name
 Huy Bui, Rita Stanaityte, Alan Akil, Kazem Safari
