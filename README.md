@@ -1,4 +1,4 @@
-# Map challenge
+# Open-Mapping-AI
 -- **Status:** Incompleted.
 
 ## Description
